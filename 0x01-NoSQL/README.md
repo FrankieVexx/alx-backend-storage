@@ -1,0 +1,1 @@
+NoSQL concepts and tasks
